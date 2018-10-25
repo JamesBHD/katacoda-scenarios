@@ -1,14 +1,15 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
-  "difficulty": "beginner",
+  "title": "Scenario de Base GTO",
+  "description": "Ma première formation",
+  "difficulty": "débutant",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Lancer une commande",
       "text": "step1.md"
     }],
     "intro": {
+      "courseData": "load.sh",
       "text": "intro.md",
       "credits": ""
     },

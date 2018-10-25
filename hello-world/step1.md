@@ -1,7 +1,7 @@
-This is your first step.
+Première etape, on va lancer une commande dans un shelle
 
-## Task
+## Hello GTO
 
-This is an _example_ of creating a scenario and running a **command**
+On va commancer par lancer une **command**
 
-`echo 'Hello World'`{{execute}}
+`figlet 'Hello GTO'`{{execute}}
