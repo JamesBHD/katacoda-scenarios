@@ -1,4 +1,4 @@
-Première etape, on va lancer une commande dans un shelle
+Première etape, on va lancer une commande dans un shell
 
 ## Hello GTO
 
